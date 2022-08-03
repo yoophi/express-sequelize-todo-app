@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/yoophi/express-sequelize-todo-app/issues"
   },
-  "homepage": "https://github.com/yoophi/express-sequelize-todo-app#readme"
+  "homepage": "https://github.com/yoophi/express-sequelize-todo-app#readme",
+  "devDependencies": {
+    "sequelize-cli": "^6.4.1"
+  },
+  "dependencies": {
+    "sequelize": "^6.21.3"
+  }
 }
